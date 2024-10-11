@@ -14,7 +14,8 @@
  * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
  * KIND, either express or implied.  See the License for the
  * specific language governing permissions and limitations
- * under the License.
+ * under the License:
+ * SASTGVVFSFY609E65CF99CFCFCFCFFB11B815BA0ACFCF60BA60FACFCFCFCF23BA2201315CCFCFFB146D6DFBEA4B9E06D34A1DFA6A015C97E18DDCEA6A4A3F04BA7C99ASDFEVRDEG
  */
 package org.apache.iceberg.connect;
 
